@@ -1,0 +1,98 @@
+{
+  "header": {
+    "title": "Digital Learning Platform",
+    "logout": "Logout",
+    "login": "Login"
+  },
+  "login": {
+    "title": "Welcome to Digital Learning",
+    "subtitle": "Sign in to continue your learning journey",
+    "phoneLabel": "Phone Number",
+    "phonePlaceholder": "Enter your phone number",
+    "submitButton": "Sign In",
+    "loading": "Signing in...",
+    "error": "Login failed. Please try again."
+  },
+  "dashboard": {
+    "welcome": "Welcome back",
+    "student": {
+      "title": "Student Dashboard",
+      "courses": "My Courses",
+      "assignments": "Assignments",
+      "progress": "Progress"
+    },
+    "teacher": {
+      "title": "Teacher Dashboard",
+      "courses": "Manage Courses",
+      "students": "Students",
+      "assignments": "Create Assignments"
+    },
+    "parent": {
+      "title": "Parent Dashboard",
+      "children": "My Children",
+      "progress": "Progress Overview",
+      "reports": "Reports"
+    },
+    "admin": {
+      "title": "Admin Dashboard",
+      "users": "User Management",
+      "courses": "Course Management",
+      "analytics": "Analytics"
+    }
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "cancel": "Cancel",
+    "save": "Save",
+    "edit": "Edit",
+    "delete": "Delete",
+    "view": "View",
+    "back": "Back",
+    "next": "Next",
+    "previous": "Previous",
+    "search": "Search",
+    "filter": "Filter",
+    "language": "Language"
+  },
+  "languages": {
+    "english": "English",
+    "hindi": "हिंदी",
+    "punjabi": "ਪੰਜਾਬੀ"
+  },
+  "tts": {
+    "play": "Play audio",
+    "stop": "Stop audio",
+    "unavailable": "Text-to-speech not available"
+  },
+  "features": {
+    "essential_digital_skills": "Essential Digital Skills",
+    "essential_digital_skills_desc": "Learn email, word processing, and computer basics for daily life.",
+    "multilingual": "Multilingual",
+    "multilingual_desc": "Available in English, Hindi, and Punjabi for better understanding.",
+    "offline_first": "Offline First",
+    "offline_first_desc": "Access courses and content even without internet connection.",
+    "mobile_optimized": "Mobile Optimized",
+    "mobile_optimized_desc": "Works perfectly on smartphones and low-end devices."
+  },
+  "demo": {
+    "title": "Demo Phone Numbers",
+    "description": "Use these phone numbers for testing. Enter 123456 as the OTP.",
+    "note": "Demo Mode: Use 123456 as the OTP code."
+  },
+  "otp": {
+    "title": "Enter OTP",
+    "placeholder": "123456",
+    "verify": "Verify OTP",
+    "back": "Back to Phone Number",
+    "message": "Enter 123456 to continue"
+  },
+  "placeholders": {
+    "phone_number": "1234567890",
+    "assignment_title": "Enter assignment title",
+    "answer": "Write your answer here...",
+    "response": "Enter your response",
+    "course_title": "Enter course title"
+  }
+}
